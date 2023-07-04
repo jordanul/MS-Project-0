@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&family=Montserrat&display=swap');
+
+
+/* ----------------------Logo */
+
+.logo {
+    height: 140px;
+    width: 140px;
+}
+
+/* ----------------------Colours */
+
+body {
+    background-color: #000;
+}
+
+.ui-menu-item {
+    color: #5CE1E6;
+}
+
+/* ----------------------Header */
+header {
+    margin: 0;
+}
+
+h3 {
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #5CE1E6;
+}
+
+a {
+    color: #5CE1E6;
+}
+
+.menuitem {
+    font-weight: 600;
+    width: 300px;
+    text-align: left;
+    margin-top: 55px;
+}
+
+.menuitem a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.menuitem a:visited {
+    text-decoration: none;
+    color: #5CE1E6;
+}
+
+.menuitem a:active {
+color: #5CE1E6;
+}
+
+h1 {
+    max-width: 400px;
+    margin-top: 20px;
+    color: #fff;
+}
+
+.description {
+    margin-top: 25px;
+    font-family: "Montserrat", sans-serif;
+    color: #5CE1E6;
+}
+
+.row {
+    display: flex;
+}
